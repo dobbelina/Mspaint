@@ -23,7 +23,7 @@ Download here: [Mspaint-Installer-x64.exe](https://github.com/dobbelina/Mspaint/
 
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/dobbelina/Mspaint/latest/total)
 
-<sub>*Thanks to [mspaintmsi](https://github.com/mspaintmsi/superUser) for the Trusted Installer utility </sub>
+<sub>* Thanks to [mspaintmsi](https://github.com/mspaintmsi/superUser) for the Trusted Installer utility </sub>
 
 
 <p align="center"><img src="Classic-Paint.jpg" width="600" /></p>
