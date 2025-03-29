@@ -1,4 +1,4 @@
-# Mspaint
+# Mspaint ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 Classic Paint for Windows 11
 
 Built from Windows 11, version 24H2 (26100.1742) Enterprise/Windows-Server files.
