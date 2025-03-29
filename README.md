@@ -9,6 +9,8 @@ Default version is English language, (en-US)
 
 Run installer **Mspaint-Installer-x64.exe** and input "paint" as password to start the install.
 
+<sub>* Installer built with WinRAR, mspaint.exe installs to system32</sub>
+
 Disable app execution alias mspaint.exe & pbrush.exe by typing `ms-settings:advanced-apps`
 in the run dialog, (Win+R) and press OK.
 
