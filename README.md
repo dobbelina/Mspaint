@@ -12,4 +12,7 @@ Run installer Mspaint-Installer-x64.exe and input "paint" as password to start t
 Disable app execution alias mspaint.exe & pbrush.exe by typing `ms-settings:advanced-apps`
 in the run dialog, (Win+R)
 
+Additional languages can be installed by copying the corresponding `mspaint.exe.mui` to it's language folder
+in system32
+
 <p align="center"><img src="Classic-Paint.jpg" width="600" /></p>
