@@ -3,7 +3,7 @@ Classic Paint for Windows 11
 
 Built from Windows 11, version 24H2 (26100.1742) Enterprise/Windows-Server files.
 
-Installs on any Windows 11 64bit, (Only 64bit version)
+Installs on any Windows 11 64bit, (Only 64bit)
 
 Default version is English language, (en-US)
 
