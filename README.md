@@ -17,6 +17,8 @@ in the run dialog, (Win+R) and press OK.
 Additional languages can be installed by copying the `mspaint.exe.mui` to it's corresponding language folder
 in system32, here are the [Language Files](https://github.com/dobbelina/Mspaint/tree/main/Language%20Files)
 
+[language folder abbreviations](https://www.autoitscript.com/autoit3/docs/appendix/OSLangCodes.htm)
+
 Download here: [Mspaint-Installer-x64.exe](https://github.com/dobbelina/Mspaint/releases/latest/download/Mspaint-Installer-x64.exe)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/dobbelina/Mspaint/latest/total)
