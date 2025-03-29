@@ -7,7 +7,7 @@ Installs on any Windows 11 64bit, (Only 64bit version)
 
 Default version is English language, (en-US)
 
-Run installer Mspaint-Installer-x64.exe and input "paint" as password to start the install.
+Run installer **Mspaint-Installer-x64.exe** and input "paint" as password to start the install.
 
 Disable app execution alias mspaint.exe & pbrush.exe by typing `ms-settings:advanced-apps`
 in the run dialog, (Win+R) and press OK.
