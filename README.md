@@ -14,7 +14,10 @@ Run installer **Mspaint-Installer-x64.exe** and input "paint" as password to sta
 Disable app execution alias mspaint.exe & pbrush.exe by typing <br>`ms-settings:advanced-apps`
 in the run dialog, (Win+R) and press OK.
 
-Automatically installs language files for the following languages:
+The installer detects what languages you have installed in your Windows,<br>
+and will provide the appropriate MUI files automatically.<br> It comes with
+the following locales:
+				
 
 ar-SA, bg-BG, cs-CZ, da-DK, de-DE, el-GR, en-GB, es-ES, es-MX, et-EE,<br> fi-FI, fr-CA, fr-FR
 he-IL, hr-HR, hu-HU, it-IT, ja-JP, ko-KR, lt-LT, lv-LV,<br> nb-NO, nl-NL, pl-PL, pt-BR, pt-PT
