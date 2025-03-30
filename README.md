@@ -14,10 +14,11 @@ Run installer **Mspaint-Installer-x64.exe** and input "paint" as password to sta
 Disable app execution alias mspaint.exe & pbrush.exe by typing <br>`ms-settings:advanced-apps`
 in the run dialog, (Win+R) and press OK.
 
-Additional languages can be installed by copying the `mspaint.exe.mui` to it's corresponding language folder
-in system32, here are the [Language Files](https://github.com/dobbelina/Mspaint/tree/main/Language%20Files)
+Automatically installs language files for the following languages:
 
-[language folder abbreviations](https://www.autoitscript.com/autoit3/docs/appendix/OSLangCodes.htm)
+ar-SA, bg-BG, cs-CZ, da-DK, de-DE, el-GR, en-GB, es-ES, es-MX, et-EE, fi-FI, fr-CA, fr-FR
+he-IL, hr-HR,<br> hu-HU, it-IT, ja-JP, ko-KR, lt-LT, lv-LV, nb-NO, nl-NL, pl-PL, pt-BR, pt-PT
+ro-RO, ru-RU, sk-SK, sl-SI,<br> sr-Latn-RS, sv-SE, th-TH, tr-TR, uk-UA, zh-CN, zh-TW
 
 Download here: [Mspaint-Installer-x64.exe](https://github.com/dobbelina/Mspaint/releases/latest/download/Mspaint-Installer-x64.exe)
 
