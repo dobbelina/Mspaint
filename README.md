@@ -18,7 +18,7 @@ Automatically installs language files for the following languages:
 
 ar-SA, bg-BG, cs-CZ, da-DK, de-DE, el-GR, en-GB, es-ES, es-MX, et-EE,<br> fi-FI, fr-CA, fr-FR
 he-IL, hr-HR, hu-HU, it-IT, ja-JP, ko-KR, lt-LT, lv-LV,<br> nb-NO, nl-NL, pl-PL, pt-BR, pt-PT
-ro-RO, ru-RU, sk-SK, sl-SI, sr-Latn-RS, sv-SE, th-TH, tr-TR, uk-UA, zh-CN, zh-TW
+ro-RO, ru-RU, sk-SK, sl-SI, sr-Latn-RS,<br> sv-SE, th-TH, tr-TR, uk-UA, zh-CN, zh-TW
 
 Download here: [Mspaint-Installer-x64.exe](https://github.com/dobbelina/Mspaint/releases/latest/download/Mspaint-Installer-x64.exe)
 
