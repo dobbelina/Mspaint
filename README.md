@@ -12,7 +12,8 @@ Run installer **Mspaint-Installer-x64.exe** and input "paint" as password to sta
 <sub>* Installer built with WinRAR, mspaint.exe installs to system32</sub>
 
 Disable app execution alias mspaint.exe & pbrush.exe by typing <br>`ms-settings:advanced-apps`
-in the run dialog, (Win+R) and press OK.
+in the run dialog, (Win+R) and press OK.<br>
+If you omit this step, you will have the default inbox mspaint.exe running by default.
 
 The installer detects what language you have installed in your Windows,<br>
 and will provide the appropriate MUI file automatically.<br> It comes with
