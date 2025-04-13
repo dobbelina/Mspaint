@@ -1,8 +1,6 @@
 # Mspaint ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 Classic Paint for Windows 11
 
-<sub>* Classic Snipping Tool & Classic Calculator Links Above</sub>
-
 Built from Windows 11, version 24H2 (26100.1742) Enterprise/Windows-Server all genuine files.
 
 Installs on any Windows 11 64bit, (Only 64bit)
@@ -30,6 +28,10 @@ ro-RO, ru-RU, sk-SK, sl-SI, sr-Latn-RS,<br> sv-SE, th-TH, tr-TR, uk-UA, zh-CN, z
 Download here: [Mspaint-Installer-x64.exe](https://github.com/dobbelina/Mspaint/releases/latest/download/Mspaint-Installer-x64.exe)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/dobbelina/Mspaint/latest/total)
+
+Classic Calculator: [Calculator-Installer-x64.exe](https://github.com/dobbelina/Mspaint/raw/refs/heads/main/Calculator-Installer-x64.exe)
+
+Classic Snipping Tool: [Snipping-Tool-Installer-x64.exe](https://github.com/dobbelina/Mspaint/raw/refs/heads/main/Snipping-Tool-Installer-x64.exe)
 
 <sub>* Thanks to [mspaintmsi](https://github.com/mspaintmsi/superUser) for the Trusted Installer utility </sub>
 
