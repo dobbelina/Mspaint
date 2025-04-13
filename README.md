@@ -1,7 +1,7 @@
 # Mspaint ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 Classic Paint for Windows 11
 
-<sub>* And Classic Snipping Tool & Classic Calculator Links Above</sub>
+<sub>* Classic Snipping Tool & Classic Calculator Links Above</sub>
 
 Built from Windows 11, version 24H2 (26100.1742) Enterprise/Windows-Server all genuine files.
 
