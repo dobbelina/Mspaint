@@ -29,11 +29,14 @@ Download here: [Mspaint-Installer-x64.exe](https://github.com/dobbelina/Mspaint/
 
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/dobbelina/Mspaint/latest/total)
 
+## Other Classics
+
 Classic Calculator: [Calculator-Installer-x64.exe](https://github.com/dobbelina/Mspaint/raw/refs/heads/main/Calculator-Installer-x64.exe)
 
 Classic Snipping Tool: [Snipping-Tool-Installer-x64.exe](https://github.com/dobbelina/Mspaint/raw/refs/heads/main/Snipping-Tool-Installer-x64.exe)
 
 Classic Wordpad: [Wordpad-Installer-x64.exe](https://github.com/dobbelina/Mspaint/raw/refs/heads/main/Wordpad-Installer-x64.exe)
+<sub>Built from Windows 11, version 23H2 (22631.5192) </sub>
 
 <sub>* Thanks to [mspaintmsi](https://github.com/mspaintmsi/superUser) for the Trusted Installer utility </sub>
 
