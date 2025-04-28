@@ -31,6 +31,8 @@ Download here: [Mspaint-Installer-x64.exe](https://github.com/dobbelina/Mspaint/
 
 ## Other Classics
 
+Classic Notepad: [Notepad-Installer-x64.exe](https://github.com/dobbelina/Mspaint/raw/refs/heads/main/Notepad-Installer-x64.exe)
+
 Classic Calculator: [Calculator-Installer-x64.exe](https://github.com/dobbelina/Mspaint/raw/refs/heads/main/Calculator-Installer-x64.exe)
 
 Classic Snipping Tool: [Snipping-Tool-Installer-x64.exe](https://github.com/dobbelina/Mspaint/raw/refs/heads/main/Snipping-Tool-Installer-x64.exe)
